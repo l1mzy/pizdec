@@ -1,0 +1,52 @@
+
+{
+    "client_version"            : 2314,
+    "apple_client_version"      : 1127,
+    "google_client_version"     : 823,
+    "appgallery_client_version" : 635,
+    "rustore_client_version"    : 635,
+
+    "google_panic": false,
+    "appgallery_panic": false,
+    "rustore_panic": false,
+
+    "appgallery_review" : false,
+    "google_review"     : false,
+    "apple_review"      : false,
+    "rustore_review"    : false,
+    "apk_review"        : false,
+    "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
+
+    "review_files_list":    "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-0-0_f2d50274/files_list.json", 
+    "files_list":           "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-0-0_f2d50274/files_list.json",
+
+    "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2314.apk",
+    "apple_client_url":         "https://apps.apple.com/app/id6474574017",
+    "google_client_url":        "https://play.google.com/store/apps/details?id=com.jekmant.matrplauncher",
+    "appgallery_client_url":    "https://appgallery.huawei.com/app/C111520735",
+    "rustore_client_url":       "https://apps.rustore.ru/app/com.matreshkarp.game",
+    
+    "use_s2s_for_adjust":false,
+    "updateState":false,
+    "api_support":"wss://supportws.matrp.ru",
+
+    "cdn_url": "https://edgecdn.matrp.ru/matrp_mobile",
+    "api": "https://moblauncher.matrp.ru/api/main.json",
+    "api_socket": "wss://api-main-two.matrp.online",
+    "api_socket_new": "wss://api-main-two.matrp.online",
+    "archive_size": 1714376127,
+    "archive_url": "https://edgecdn.matrp.ru/matrp_mobile/builds/build0703-prodall/archive/cache_full.zip",
+
+    "socialFaq": "https://vk.me/matrp_help",
+    "socialVk": "https://vk.com/russian_mobile",
+    "socialYouTube": "https://www.youtube.com/@matrpru",
+    "socialInstagram": "https://www.instagram.com/matrp.ru",
+    "socialTelegram": "https://t.me/matrp_t",
+    "socialDiscord": "https://discord.gg/e8FFmcd9Hu",
+    "socialOfferta": "https://matrp.ru/offerta",
+    "socialPrivacy": "https://matrp.ru/privacy",
+    "socialForum": "https://forum.matrp.ru",
+    "socialForumRules": "https://forum.matrp.ru/index.php?threads/obsie-pravila-serverov.1241604/",
+     "mLeaderboardUrl": "https://matrp.ru/leaderboard",
+     "mForumUrl": "https://forum.matrp.ru/index.php"
+}
