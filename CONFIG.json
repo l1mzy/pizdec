@@ -1,4 +1,3 @@
-
 {
     "client_version"            : 2314,
     "apple_client_version"      : 1127,
@@ -10,15 +9,15 @@
     "appgallery_panic": false,
     "rustore_panic": false,
 
-    "appgallery_review" : false,
-    "google_review"     : false,
-    "apple_review"      : false,
-    "rustore_review"    : false,
-    "apk_review"        : false,
+    "appgallery_review" : true,
+    "google_review"     : true,
+    "apple_review"      : true,
+    "rustore_review"    : true,
+    "apk_review"        : true,
     "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
 
-    "review_files_list":    "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-0-0_f2d50274/files_list.json", 
-    "files_list":           "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-0-0_f2d50274/files_list.json",
+    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/dp_5.1.0_ce797252/files_list.json", 
+    "files_list":           "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-0-0_4e7b2e01/files_list.json",
 
     "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2314.apk",
     "apple_client_url":         "https://apps.apple.com/app/id6474574017",
@@ -32,8 +31,8 @@
 
     "cdn_url": "https://edgecdn.matrp.ru/matrp_mobile",
     "api": "https://moblauncher.matrp.ru/api/main.json",
-    "api_socket": "ws://m1client-test.vibegames.tech/ws3",
-    "api_socket_new": "ws://m1client-test.vibegames.tech/ws3",
+    "api_socket": "wss://api-main-two.matrp.online",
+    "api_socket_new": "wss://api-main-two.matrp.online",
     "archive_size": 1714376127,
     "archive_url": "https://edgecdn.matrp.ru/matrp_mobile/builds/build0703-prodall/archive/cache_full.zip",
 
@@ -50,3 +49,5 @@
      "mLeaderboardUrl": "https://matrp.ru/leaderboard",
      "mForumUrl": "https://forum.matrp.ru/index.php"
 }
+
+
