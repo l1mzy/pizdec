@@ -1,5 +1,5 @@
 {
-    "client_version"            : 2314,
+    "client_version"            : 2321,
     "apple_client_version"      : 1127,
     "google_client_version"     : 823,
     "appgallery_client_version" : 635,
@@ -16,10 +16,10 @@
     "apk_review"        : true,
     "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
 
-    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/dp_5.1.0_ce797252/files_list.json", 
-    "files_list":           "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-0-0_4e7b2e01/files_list.json",
+    "review_files_list":    "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_4bdc4efb/files_list.json", 
+    "files_list":           "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_4bdc4efb/files_list.json",
 
-    "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2314.apk",
+    "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2321.apk",
     "apple_client_url":         "https://apps.apple.com/app/id6474574017",
     "google_client_url":        "https://play.google.com/store/apps/details?id=com.jekmant.matrplauncher",
     "appgallery_client_url":    "https://appgallery.huawei.com/app/C111520735",
