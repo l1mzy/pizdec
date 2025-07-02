@@ -56,7 +56,7 @@
   "use_support_url_fallback": false,
   "support_url_fallback": "https://vk.com/matrp_help",
   "access_private": true,
-  "access_public": false,
+  "access_public": true,
   "dev_update_files_list0": "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-0-0-part0-download_6f79e412/files_list0.json",
   "dev_develop_files_list0": "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-0-0-part0-download_6f79e412/files_list0.json",
   "files_list0": "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-0-0-part0-download_6f79e412/files_list0.json",
