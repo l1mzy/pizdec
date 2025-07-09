@@ -32,7 +32,7 @@
 
     "cdn_url": "https://edgecdn.matrp.ru/matrp_mobile",
     "api": "https://moblauncher.matrp.ru/api/main.json",
-    "api_socket": "wss://api-main-two.matrp.online3",
+    "api_socket": "wss://api-main-two.matrp.online",
     "api_socket_new": "wss://api-main-two.matrp.online",
     "archive_size": 1714376127,
     "archive_url": "https://edgecdn.matrp.ru/matrp_mobile/builds/build0703-prodall/archive/cache_full.zip",
