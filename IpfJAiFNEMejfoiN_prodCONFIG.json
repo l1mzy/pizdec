@@ -1,9 +1,9 @@
 {
-    "client_version"            : 2321,
-    "apple_client_version"      : 1127,
-    "google_client_version"     : 823,
-    "appgallery_client_version" : 635,
-    "rustore_client_version"    : 635,
+    "client_version"            : 2334,
+    "apple_client_version"      : 1139,
+    "google_client_version"     : 839,
+    "appgallery_client_version" : 638,
+    "rustore_client_version"    : 643,
 
     "google_panic": false,
     "appgallery_panic": false,
@@ -16,13 +16,14 @@
     "apk_review"        : false,
     "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
 
-    "review_files_list":    "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_4bdc4efb/files_list.json", 
-    "files_list":           "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_4bdc4efb/files_list.json",
+    "review_files_list":    "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_97b53748/files_list.json", 
+    "files_list":           "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_97b53748/files_list.json",
 
-    "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2321.apk",
+    "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2334.apk",
     "apple_client_url":         "https://apps.apple.com/app/id6474574017",
     "google_client_url":        "https://play.google.com/store/apps/details?id=com.jekmant.matrplauncher",
     "appgallery_client_url":    "https://appgallery.huawei.com/app/C111520735",
+    "appgallery_client_url_no_panic":    "https://appgallery.huawei.com/app/C111520735",
     "rustore_client_url":       "https://apps.rustore.ru/app/com.matreshkarp.game",
     
     "use_s2s_for_adjust":false,
