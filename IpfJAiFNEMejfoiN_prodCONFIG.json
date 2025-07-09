@@ -14,7 +14,7 @@
     "apple_review"      : false,
     "rustore_review"    : false,
     "apk_review"        : false,
-    "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
+    "review_api_socket" : "wss://api-main-two.matrp.online",
 
     "review_files_list":    "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_97b53748/files_list.json", 
     "files_list":           "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_97b53748/files_list.json",
@@ -32,8 +32,8 @@
 
     "cdn_url": "https://edgecdn.matrp.ru/matrp_mobile",
     "api": "https://moblauncher.matrp.ru/api/main.json",
-    "api_socket": "ws://m1client-test.vibegames.tech/ws3",
-    "api_socket_new": "ws://m1client-test.vibegames.tech/ws3",
+    "api_socket": "wss://api-main-two.matrp.online3",
+    "api_socket_new": "wss://api-main-two.matrp.online",
     "archive_size": 1714376127,
     "archive_url": "https://edgecdn.matrp.ru/matrp_mobile/builds/build0703-prodall/archive/cache_full.zip",
 
