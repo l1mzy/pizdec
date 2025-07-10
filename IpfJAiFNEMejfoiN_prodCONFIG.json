@@ -1,9 +1,9 @@
 {
-    "client_version"            : 1036,
-    "apple_client_version"      : 1036,
-    "google_client_version"     : 1036,
-    "appgallery_client_version" : 1036,
-    "rustore_client_version"    : 1036,
+    "client_version"            : 2331,
+    "apple_client_version"      : 0,
+    "google_client_version"     : 0,
+    "appgallery_client_version" : 0,
+    "rustore_client_version"    : 0,
 
     "google_panic": false,
     "appgallery_panic": false,
