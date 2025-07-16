@@ -10,13 +10,13 @@
     "rustore_panic": false,
 
     "appgallery_review" : true,
-    "google_review"     : true,
-    "apple_review"      : true,
-    "rustore_review"    : true,
-    "apk_review"        : true,
+    "google_review"     : false,
+    "apple_review"      : false,
+    "rustore_review"    : false,
+    "apk_review"        : false,
     "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
 
-    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_3365a596/files_list.json", 
+    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_cbb3e434/files_list.json", 
     "files_list":           "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_3365a596/files_list.json",
 
     "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2354.apk",
@@ -32,8 +32,8 @@
 
     "cdn_url": "https://edgecdn.matrp.ru/matrp_mobile",
     "api": "https://moblauncher.matrp.ru/api/main.json",
-    "api_socket": "ws://m1client-test.vibegames.tech/ws3",
-    "api_socket_new": "ws://m1client-test.vibegames.tech/ws3",
+    "api_socket": "wss://api-main-two.matrp.online",
+    "api_socket_new": "wss://api-main-two.matrp.online",
     "archive_size": 1714376127,
     "archive_url": "https://edgecdn.matrp.ru/matrp_mobile/builds/build0703-prodall/archive/cache_full.zip",
 
