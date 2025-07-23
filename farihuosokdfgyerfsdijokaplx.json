@@ -1,9 +1,9 @@
 {
-    "client_version"            : 2354,
+    "client_version"            : 2355,
     "apple_client_version"      : 1143,
-    "google_client_version"     : 842,
+    "google_client_version"     : 847,
     "appgallery_client_version" : 643,
-    "rustore_client_version"    : 644,
+    "rustore_client_version"    : 646,
 
     "google_panic": false,
     "appgallery_panic": false,
@@ -16,10 +16,13 @@
     "apk_review"        : false,
     "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
 
-    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_cbb3e434/files_list.json", 
+    "moderator_apple_ws" : "ws://195.18.27.7:7000",
+    "moderator_apple_code": 1152,
+
+    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_3365a596/files_list.json", 
     "files_list":           "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_3365a596/files_list.json",
 
-    "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2354.apk",
+    "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2355.apk",
     "apple_client_url":         "https://apps.apple.com/app/id6474574017",
     "google_client_url":        "https://play.google.com/store/apps/details?id=com.jekmant.matrplauncher",
     "appgallery_client_url":    "https://appgallery.huawei.com/app/C111520735",
@@ -50,3 +53,5 @@
      "mLeaderboardUrl": "https://matrp.ru/leaderboard",
      "mForumUrl": "https://forum.matrp.ru/index.php"
 }
+
+
