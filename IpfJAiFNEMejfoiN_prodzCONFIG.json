@@ -16,8 +16,8 @@
     "apk_review"        : false,
     "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
 
-    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_cbb3e434/files_list.json", 
-    "files_list":           "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_3365a596/files_list.json",
+    "review_files_list":    "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_696dd555/files_list.json", 
+    "files_list":           "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-2-0_696dd555/files_list.json",
 
     "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2354.apk",
     "apple_client_url":         "https://apps.apple.com/app/id6474574017",
