@@ -21,8 +21,8 @@
     "moderator_prod_ws" : "ws://85.90.192.76:7050",
     "moderator_prod_code": 0,
 
-    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_3365a596/files_list.json", 
-    "files_list":           "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_e3a6c531/files_list.json",
+    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_3b275127/files_list.json", 
+    "files_list":           "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-1-0_3b275127/files_list.json",
 
     "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2355.apk",
     "apple_client_url":         "https://apps.apple.com/app/id6474574017",
