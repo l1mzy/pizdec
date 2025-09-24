@@ -9,11 +9,11 @@
     "appgallery_panic": false,
     "rustore_panic": false,
 
-    "appgallery_review" : false,
-    "google_review"     : false,
-    "apple_review"      : false,
-    "rustore_review"    : false,
-    "apk_review"        : false,
+    "appgallery_review" : true,
+    "google_review"     : true,
+    "apple_review"      : true,
+    "rustore_review"    : true,
+    "apk_review"        : true,
     "review_api_socket" : "ws://212.46.36.53:7002",
 
     "moderator_apple_ws" : "ws://85.90.192.76:7050",
@@ -22,8 +22,8 @@
     "moderator_prod_ws" : "ws://85.90.192.76:7050",
     "moderator_prod_code": 0,
 
-    "review_files_list":    "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-2-0_a0044bef/files_list.json", 
-    "files_list":           "https://edgecdn.matrp.ru/matrp_mobile/builds/build_5-2-0_a0044bef/files_list.json",
+    "review_files_list":    "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-3-0_2714a31c/files_list.json", 
+    "files_list":           "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-3-0_2714a31c/files_list.json",
 
     "client_url":               "https://edgecdn.matrp.ru/matreshka-prod-2372.apk",
     "apple_client_url":         "https://apps.apple.com/app/id6474574017",
